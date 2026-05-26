@@ -3,7 +3,7 @@
 public class PlayerController : MonoBehaviour
 {
     public float speed = 5f;
-    public float mouseSensitivity = 200f;
+    public float mouseSensitivity = 50f;
 
     float xRotation = 0f;
 
