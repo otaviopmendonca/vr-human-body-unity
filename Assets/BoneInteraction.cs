@@ -130,7 +130,7 @@ public class BoneInteraction : MonoBehaviour
 
         posicaoCentral = canvasWorld.position;
 
-        posicaoLateral = posicaoCentral + new Vector3(0f, -0.4f, 2f);
+        posicaoLateral = posicaoCentral + new Vector3(2f, -0.4f, 0f);
 
         titleText.text = "Selecione um osso";
 
